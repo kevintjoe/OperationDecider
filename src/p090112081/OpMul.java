@@ -15,4 +15,9 @@ public class OpMul implements Strategy{
         return num1*num2;
     }
     
+    public void  telorPecah()
+    {
+        System.out.println("telormupecah");
+    }
+    
 }
